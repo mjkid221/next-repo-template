@@ -15,7 +15,7 @@
     "@scope/tsconfig": "*",
     "@storybook/addon-essentials": "^7.0.20",
     "@storybook/addon-interactions": "^7.0.20",
-    "@storybook/addon-links": "^7.0.20",
+    "@storybook/addon-links": "^7.6.17",
     "@storybook/blocks": "^7.0.20",
     "@storybook/nextjs": "^7.0.20",
     "@storybook/react": "^7.0.20",
